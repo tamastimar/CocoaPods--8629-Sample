@@ -1,0 +1,16 @@
+PODS:
+  - dep (0.0.1)
+
+DEPENDENCIES:
+  - dep (from `.`)
+
+EXTERNAL SOURCES:
+  dep:
+    :path: "."
+
+SPEC CHECKSUMS:
+  dep: 4f7b02a947ddc9b20a5e6f406630e729545a6038
+
+COCOAPODS: 1.6.1
+
+PODFILE CHECKSUM: 03c885ac2c3e3bc2442923ca1545b1bc08b80c65
